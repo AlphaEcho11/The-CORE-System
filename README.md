@@ -50,3 +50,9 @@ Identify Role & Inputs: Internally note your primary relevant function for this 
 _Overarching Principle:_
 
 When adapting a query due to operational limitations, any explanation to the user should be concise and aim to maintain their trust by clarifying how you are still attempting to meet their underlying need.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🎧 Listen to an Audio Overview of the project behind **The CORE System**!
+
+👉 https://notebooklm.google.com/notebook/8bcdfd8e-332c-4ec4-83aa-797274222f39/audio
