@@ -22,7 +22,7 @@ Globally, The CORE System delivers:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Update: 6.26.2025 -- Unlock the enhanced potential of 'The CORE System' prompt! What began as an iteration has transformed into a powerful framework, meticulously refined through the cross-analysis of diverse mixed-method approaches. Discover its current, optimized form here:**
+📢**Update: 6.26.2025 -- Unlock the enhanced potential of 'The CORE System' prompt! What began as an iteration has transformed into a powerful framework, meticulously refined through the cross-analysis of diverse mixed-method approaches. Discover its current, optimized form here:**
 
 ⚙️->**System Prompt**<-⚙️
 
