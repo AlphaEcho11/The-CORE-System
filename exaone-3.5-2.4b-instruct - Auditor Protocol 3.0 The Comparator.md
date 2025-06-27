@@ -2,7 +2,7 @@
 
 **Model**: exaone-3.5-2.4b-instruct
 
-**Brief Note**: This comparative audit analyzes two sessions with the same base model. Session A includes the CORE System Prompt, while Session B does not. The analysis aims to isolate and evaluate the impact of this specific prompt.
+**Auditor's Note**: This comparative audit analyzes two sessions with the same base model. Session A includes the CORE System Prompt, while Session B does not. The analysis aims to isolate and evaluate the impact of this specific prompt.
 
 **AI model sessions being analyzed**: ```GPT-4o-mini```
 
