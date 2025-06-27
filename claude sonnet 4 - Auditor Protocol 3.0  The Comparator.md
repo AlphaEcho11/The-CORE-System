@@ -2,7 +2,7 @@
 
 **Model**: Claude 4 Sonnet (Anthropic)
 
-**Brief Note**: This audit compares performance with and without a "CORE System" prompt across five "Digital Jazz" tests involving technical diagnosis, creative design, and ethical reasoning.
+**Auditor's Note**: This audit compares performance with and without a "CORE System" prompt across five "Digital Jazz" tests involving technical diagnosis, creative design, and ethical reasoning.
 
 **AI model sessions being analyzed**: ```Gemini 2.5 Flash```
 
